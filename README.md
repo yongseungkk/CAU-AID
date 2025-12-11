@@ -59,9 +59,7 @@ Predicted species: setosa
 - Modify the dataset loading path in the scipt if necessary.
 
 ## License
-This project is licensed under the [MIT Lisence]
-(https://opensource.org/license/mit)
+This project is licensed under the [MIT Lisence](https://opensource.org/license/mit)
 
 ## Author
-Developed by [Kimyongseung]
-(kupwelling@cau.ac.kr)
+Developed by [Kimyongseung](kupwelling@cau.ac.kr)
